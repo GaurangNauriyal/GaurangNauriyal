@@ -55,8 +55,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" alt="ML and Data" />
   &nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&labelColor=0a2a2e" height="46" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0a2a2e" height="46" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0a2a2e" height="46" alt="Pandas" />
 </div>
 
 ### 🔗 Databases
@@ -131,6 +129,15 @@ Add finished projects here as pin cards once the repos are public, for example:
 
 <div align="center">
   <img src="https://activity-graph.vercel.app/graph?username=GaurangNauriyal&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=5eead4&line=5eead4&point=ccfbf1&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🐍 Contribution Graph Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaurangNauriyal/GaurangNauriyal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaurangNauriyal/GaurangNauriyal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GaurangNauriyal/GaurangNauriyal/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
