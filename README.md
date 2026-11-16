@@ -55,6 +55,8 @@
   <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" alt="ML and Data" />
   &nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&labelColor=0a2a2e" height="46" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0a2a2e" height="46" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0a2a2e" height="46" alt="Pandas" />
 </div>
 
 ### 🔗 Databases
