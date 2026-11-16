@@ -147,11 +147,6 @@ Add finished projects here as pin cards once the repos are public, for example:
   <img src="https://trophy.ryglcloud.net/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://trophy.ryglcloud.net/?username=GaurangNauriyal&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
 <!--
 ## 🏆 Achievements
 Add only things you can prove with a link or certificate: a hackathon result, a certificate, a ranking.
