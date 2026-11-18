@@ -69,6 +69,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,docker&theme=dark" alt="Build and Tools" />
 </div>
 
+### 🔗 AI Dev Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Antigravity-14b8a6?style=for-the-badge&labelColor=0a2a2e" alt="Antigravity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blackbox%20AI-14b8a6?style=for-the-badge&labelColor=0a2a2e" alt="Blackbox AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-14b8a6?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0a2a2e" alt="Cursor" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windsurf-14b8a6?style=for-the-badge&logo=windsurf&logoColor=white&labelColor=0a2a2e" alt="Windsurf" />
+</div>
+
 ### 🔗 Learning now
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Learning" />
