@@ -66,9 +66,6 @@
 
 ### 🔗 Build & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cmake,docker&theme=dark" alt="Build and Tools" />
-</div>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,docker&theme=dark" alt="Build and Tools" />
 </div>
 
